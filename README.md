@@ -9,13 +9,6 @@ M-Organs is an augmented reality (AR) application that displays various human or
 - **Interactive Experience:** Rotate, zoom, and explore organs from different angles.
 - **User-Friendly Interface:** Simple controls for an intuitive AR experience.
 
-## Screenshots
-
-<!-- Add images/screenshots here if available -->
-<!-- ![screenshot1](path/to/screenshot1.png) -->
-
-## Getting Started
-
 ### Prerequisites
 
 - A device that supports AR (e.g., ARKit for iOS or ARCore for Android).
